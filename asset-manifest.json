@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goodluckcasino/static/css/main.912698e8.css",
+    "main.js": "/goodluckcasino/static/js/main.456b5d7c.js",
+    "static/media/casino-background.jpeg": "/goodluckcasino/static/media/casino-background.369e64a50202289a08a9.jpeg",
+    "static/media/fbac.jpg": "/goodluckcasino/static/media/fbac.dbb6e1d06e9c6dcffebd.jpg",
+    "index.html": "/goodluckcasino/index.html",
+    "main.912698e8.css.map": "/goodluckcasino/static/css/main.912698e8.css.map",
+    "main.456b5d7c.js.map": "/goodluckcasino/static/js/main.456b5d7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.912698e8.css",
+    "static/js/main.456b5d7c.js"
+  ]
+}
