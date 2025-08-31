@@ -106,6 +106,9 @@ app.post('/api/admin/forgot-password', (req, res) => {
 });
 
 */
+app.get("/", (req, res) => {
+  res.send("Backend is running 🚀");
+});
 
 
 
